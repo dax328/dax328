@@ -1,5 +1,7 @@
 # Hola, bienvenido a mi perfil. Mi nombre es David A. Beltran M. 👋
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="51" height="51" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="51" height="51" /></div>
+
 ## Me encanta la tecnología y me encuentro construyendo mi futuro
 
 :round_pushpin: **Soy de Bogotá D.C**
