@@ -5,7 +5,7 @@
 :round_pushpin: **Soy de Bogotá D.C**
 :computer: **Ingeniero de sistemas en formación**
 :pencil: **Me apasiona aprender nuevas cosas**
-:oncoming:automobile: **Me encantan los carros y las motos**
+:oncoming_automobile: **Me encantan los carros y las motos**
 :video_game: **Me gustan los videojuegos de shooter y BattleRoyale**
 
 ## Contacto
