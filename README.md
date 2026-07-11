@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hola, bienvenido a mi perfil. Mi nombre es David A. Beltran M. 👋
 
-<!--
-**dax328/dax328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me encanta la tecnología y me encuentro construyendo mi futuro
 
-Here are some ideas to get you started:
+:round_pushpin: **Soy de Bogotá D.C**
+:computer: **Ingeniero de sistemas en formación**
+:pencil: **Me apasiona aprender nuevas cosas**
+:oncoming:automobile: **Me encantan los carros y las motos**
+:video_game: **Me gustan los videojuegos de shooter y BattleRoyale**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+
+✉️ [Correo: davidbeltranxd328@gmail.com](mailto:davidbeltranxd328@gmail.com)
+
+## En proceso [...]
